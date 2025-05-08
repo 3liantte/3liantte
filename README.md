@@ -1,4 +1,4 @@
-<img src="https://github.com/3liantte/3liantte/blob/main/profile.JPG?raw=true" width="200" />
+<img src="https://github.com/3liantte/3liantte/blob/main/profile-pic.png?raw=true" width="200" />
 
 ## Hi there 👋
 

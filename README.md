@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Koketso 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/3linatte/3linatte/blob/main/profile-pic.png?raw=true" width="150" alt="Profile image" />
+  <img src="https://github.com/3linatte/3linatte/blob/main/profile.JPG?raw=true" width="150" alt="Profile image" />
 </p>
 
 <p align="center">🌍 Self-taught Frontend Developer on the path to becoming a Full-Stack Engineer</p>

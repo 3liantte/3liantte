@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Koketso 👋</h1>
+<h1 align="center">Hi there, I'm Koketso/Eliantte</h1>
 
 <p align="center">
   <img src="https://github.com/3liantte/3liantte/blob/main/profile-pic.png?raw=true" width="150" alt="Profile image" />

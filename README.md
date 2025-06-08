@@ -4,7 +4,7 @@
   <img src="https://github.com/3liantte/3liantte/blob/main/profile-pic.png?raw=true" width="150" alt="Profile image" />
 </p>
 
-<p align="center">🌍 Self-taught Frontend Developer on the path to becoming a Full-Stack Engineer</p>
+<p align="center">🌍 Self-taught Frontend Developer on the path to becoming a Full-Stack Developer</p>
 
 ---
 

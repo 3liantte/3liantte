@@ -37,7 +37,7 @@
 
 - 🐦 Twitter: [@eliantte64414](https://twitter.com/eliantte64414?s=21)
 - 📱 WhatsApp: [Click to Message](https://wa.me/+27614091530) <!-- replace with your number -->
-- 🌐 Portfolio: [https://koketso-portfolio.netlify.app/](https://koketso-portfolio.netlify.app/)
+- 🌐 Portfolio: [https://koketso-portfolio.netlify.app/](https://koketso-portfolio.vercel.app/)
 
 ---
 
